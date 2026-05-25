@@ -1,0 +1,357 @@
+{
+  "year": 2026,
+  "managers": [
+{
+      "managerId": "ebf7dfd7-527b-4905-b25c-1e9647c0903f",
+      "managerName": "Shubham Ranmale",
+      "employees": [
+        {
+          "employeeId": "ebf7dfd7-527b-4905-b25c-1e9647c0903f",
+          "employeeName": "Shubham Ranmale",
+          "yearlySummary": {
+            "holidayUsed": 39,
+            "holidayTotal": 65,
+            "sickUsed": 0,
+            "sickTotal": 0,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 19,
+            "dates": [
+              {
+                "startDate": "2026-05-05T09:30:00",
+                "endDate": "2026-05-07T18:30:00"
+              },
+              {
+                "startDate": "2026-05-11T09:30:00",
+                "endDate": "2026-05-15T18:30:00"
+              },
+              {
+                "startDate": "2026-07-09T09:30:00",
+                "endDate": "2026-07-09T18:30:00"
+              },
+              {
+                "startDate": "2026-10-19T09:30:00",
+                "endDate": "2026-10-23T18:30:00"
+              },
+              {
+                "startDate": "2026-08-25T09:30:00",
+                "endDate": "2026-08-25T18:30:00"
+              },
+              {
+                "startDate": "2026-11-27T09:30:00",
+                "endDate": "2026-11-30T18:30:00"
+              }
+            ]
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 4,
+            "workInShiftCount": 1
+          }
+        }
+      ]
+    },
+{
+      "managerId": "016dc66a-b2b2-4b7c-b083-e479baa50d35",
+      "managerName": "Nikhil Polawar",
+      "employees": [
+        {
+          "employeeId": "1fa61659-0a0a-4a05-84a8-22ea00c9e3bf",
+          "employeeName": "Mayur Patil",
+          "yearlySummary": {
+            "holidayUsed": 12,
+            "holidayTotal": 21,
+            "sickUsed": 4,
+            "sickTotal": 8,
+            "optionalUsed": 0,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 1,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "d627569d-52b4-4305-8538-10488a9081b4",
+          "employeeName": "Rohit Jindamwar",
+          "yearlySummary": {
+            "holidayUsed": 4,
+            "holidayTotal": 5,
+            "sickUsed": 3,
+            "sickTotal": 7,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 1,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "a6788ab9-b743-4da3-9efd-25c4dab3dd7f",
+          "employeeName": "Yatharth Nair",
+          "yearlySummary": {
+            "holidayUsed": 8,
+            "holidayTotal": 20,
+            "sickUsed": 3,
+            "sickTotal": 7,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 13,
+            "dates": [
+              {
+                "startDate": "2026-03-25T09:30:00",
+                "endDate": "2026-03-25T18:30:00"
+              },
+              {
+                "startDate": "2026-03-26T09:30:00",
+                "endDate": "2026-03-26T18:30:00"
+              },
+              {
+                "startDate": "2026-03-31T09:30:00",
+                "endDate": "2026-03-31T18:30:00"
+              },
+              {
+                "startDate": "2026-03-27T09:30:00",
+                "endDate": "2026-03-30T18:30:00"
+              },
+              {
+                "startDate": "2026-04-01T09:30:00",
+                "endDate": "2026-04-01T18:30:00"
+              },
+              {
+                "startDate": "2026-04-03T09:30:00",
+                "endDate": "2026-04-03T18:30:00"
+              },
+              {
+                "startDate": "2026-04-07T09:30:00",
+                "endDate": "2026-04-07T18:30:00"
+              },
+              {
+                "startDate": "2026-04-09T09:30:00",
+                "endDate": "2026-04-09T18:30:00"
+              },
+              {
+                "startDate": "2026-04-10T09:30:00",
+                "endDate": "2026-04-10T18:30:00"
+              },
+              {
+                "startDate": "2026-04-14T09:30:00",
+                "endDate": "2026-04-14T18:30:00"
+              }
+            ]
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 0,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "fba76856-19ec-43cd-a9e4-8e44144c962e",
+          "employeeName": "Pranali Sande",
+          "yearlySummary": {
+            "holidayUsed": 10,
+            "holidayTotal": 23,
+            "sickUsed": 4,
+            "sickTotal": 8,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 0,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "3a554b53-7340-44ee-9c84-4478d3c63647",
+          "employeeName": "Ravi Burman",
+          "yearlySummary": {
+            "holidayUsed": 8,
+            "holidayTotal": 21,
+            "sickUsed": 1,
+            "sickTotal": 7,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 2,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "e0c204fa-2d13-4025-886f-b2c6ff60ab42",
+          "employeeName": "Sofiya Samdole",
+          "yearlySummary": {
+            "holidayUsed": 6,
+            "holidayTotal": 20,
+            "sickUsed": 0,
+            "sickTotal": 9,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 0,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "03a0d8ad-14e5-4a0b-947f-bb829431d6e8",
+          "employeeName": "Aditya Kulkarni",
+          "yearlySummary": {
+            "holidayUsed": 3,
+            "holidayTotal": 24,
+            "sickUsed": 3,
+            "sickTotal": 7,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 0,
+            "workInShiftCount": 3
+          }
+        }
+      ]
+    },
+{
+      "managerId": "97136627-bd25-40e8-82a3-61972be67b91",
+      "managerName": "Saniya Patvegar",
+      "employees": [
+        {
+          "employeeId": "d2c49ee2-dd83-4da2-b85e-3d20f01e0bb0",
+          "employeeName": "Swapnil Kumbhar",
+          "yearlySummary": {
+            "holidayUsed": 11,
+            "holidayTotal": 21,
+            "sickUsed": 3,
+            "sickTotal": 8,
+            "optionalUsed": 1,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 0,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "49362b2e-3876-4d97-9606-bc55b280fb66",
+          "employeeName": "Bhagyashree Joshi",
+          "yearlySummary": {
+            "holidayUsed": 1,
+            "holidayTotal": 20,
+            "sickUsed": 0,
+            "sickTotal": 7,
+            "optionalUsed": 0,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 2,
+            "dates": [
+              {
+                "startDate": "2026-01-28T09:30:00",
+                "endDate": "2026-01-28T18:30:00"
+              },
+              {
+                "startDate": "2026-01-12T09:30:00",
+                "endDate": "2026-01-12T18:30:00"
+              }
+            ]
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 1,
+            "workInShiftCount": 0
+          }
+        },
+        {
+          "employeeId": "bca5ef06-dd3f-46a2-9736-378a739dabf5",
+          "employeeName": "Prerana Walvekar",
+          "yearlySummary": {
+            "holidayUsed": 2,
+            "holidayTotal": 20,
+            "sickUsed": 0,
+            "sickTotal": 7,
+            "optionalUsed": 0,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 0,
+            "dates": []
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 1,
+            "workInShiftCount": 0
+          }
+        }
+      ]
+    },
+{
+      "managerId": "e7fd0f93-bfe6-4a69-9c5f-924935bdbd6b",
+      "managerName": "Rohan Bhosale",
+      "employees": [
+        {
+          "employeeId": "cbe5fd4e-5485-4aca-9abe-4ea410736be4",
+          "employeeName": "Sachin Salunke",
+          "yearlySummary": {
+            "holidayUsed": 6,
+            "holidayTotal": 20,
+            "sickUsed": 1,
+            "sickTotal": 7,
+            "optionalUsed": 0,
+            "optionalTotal": 1
+          },
+          "unpaidLeave": {
+            "count": 3,
+            "dates": [
+              {
+                "startDate": "2026-01-19T09:30:00",
+                "endDate": "2026-01-19T18:30:00"
+              },
+              {
+                "startDate": "2026-01-28T09:30:00",
+                "endDate": "2026-01-28T18:30:00"
+              },
+              {
+                "startDate": "2026-01-29T09:30:00",
+                "endDate": "2026-01-29T18:30:00"
+              }
+            ]
+          },
+          "lastMonthSummary": {
+            "workFromHomeCount": 1,
+            "workInShiftCount": 0
+          }
+        }
+      ]
+    },
+  ]
+}
