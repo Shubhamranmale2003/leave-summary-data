@@ -49,8 +49,17 @@
             "optionalTotal": 1
           },
           "unpaidLeave": {
-            "count": 0,
-            "dates": []
+            "count": 3,
+            "dates": [
+              {
+                "startDate": "2026-05-01T09:30:00",
+                "endDate": "2026-05-02T18:30:00"
+              },
+              {
+                "startDate": "2026-05-15T09:30:00",
+                "endDate": "2026-05-15T18:30:00"
+              }
+            ]
           },
           "lastMonthSummary": {
             "workFromHomeCount": 2,
