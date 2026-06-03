@@ -1,0 +1,131 @@
+[
+  {
+    "managerId": "mgr-001",
+    "managerName": "Shubham Ranmale",
+    "managerMail": "shubham.ranmale@xperate.com",
+    "employees": [
+      {
+        "employeeId": "emp-001",
+        "employeeName": "Rohit Patil",
+        "employeeMail": "shubham.ranmale@xperate.com",
+        "yearlySummary": {
+          "holidayUsed": 5,
+          "holidayTotal": 20,
+          "sickUsed": 2,
+          "sickTotal": 8,
+          "optionalUsed": 1,
+          "optionalTotal": 1
+        },
+        "unpaidLeave": {
+          "count": 3,
+          "dates": [
+            {
+              "startDate": "2026-05-01T09:30:00",
+              "endDate": "2026-05-02T18:30:00"
+            },
+            {
+              "startDate": "2026-05-15T09:30:00",
+              "endDate": "2026-05-15T18:30:00"
+            }
+          ]
+        },
+        "lastMonthSummary": {
+          "workFromHomeCount": 4,
+          "workInShiftCount": 1
+        }
+      },
+      {
+        "employeeId": "emp-002",
+        "employeeName": "Sakshi More",
+        "employeeMail": "shubham.ranmale@xperate.com",
+        "yearlySummary": {
+          "holidayUsed": 10,
+          "holidayTotal": 22,
+          "sickUsed": 1,
+          "sickTotal": 7,
+          "optionalUsed": 0,
+          "optionalTotal": 1
+        },
+        "unpaidLeave": {
+          "count": 0,
+          "dates": []
+        },
+        "lastMonthSummary": {
+          "workFromHomeCount": 2,
+          "workInShiftCount": 0
+        }
+      }
+    ]
+  },
+
+  {
+    "managerId": "mgr-002",
+    "managerName": "Nikhil Powar",
+    "managerMail": "shubham.ranmale@xperate.com",
+    "employees": []
+  },
+
+  {
+    "managerId": "mgr-003",
+    "managerName": "Mayur Patil",
+    "managerMail": "shubham.ranmale@xperate.com",
+    "employees": [
+      {
+        "employeeId": "emp-003",
+        "employeeName": "Pranali Sande",
+        "employeeMail": "shubham.ranmale@xperate.com",
+        "yearlySummary": {
+          "holidayUsed": 2,
+          "holidayTotal": 18,
+          "sickUsed": 0,
+          "sickTotal": 5,
+          "optionalUsed": 1,
+          "optionalTotal": 1
+        },
+        "unpaidLeave": {
+          "count": 5,
+          "dates": [
+            {
+              "startDate": "2026-03-10T09:30:00",
+              "endDate": "2026-03-12T18:30:00"
+            },
+            {
+              "startDate": "2026-04-20T09:30:00",
+              "endDate": "2026-04-21T18:30:00"
+            }
+          ]
+        },
+        "lastMonthSummary": {
+          "workFromHomeCount": 7,
+          "workInShiftCount": 2
+        }
+      },
+      {
+        "employeeId": "emp-004",
+        "employeeName": "Aditya Kulkarni",
+        "employeeMail": "shubham.ranmale@xperate.com",
+        "yearlySummary": {
+          "holidayUsed": 0,
+          "holidayTotal": 15,
+          "sickUsed": 0,
+          "sickTotal": 5,
+          "optionalUsed": 0,
+          "optionalTotal": 1
+        },
+        "unpaidLeave": {
+          "count": 1,
+          "dates": [
+            {
+              "startDate": "2026-08-25T09:30:00",
+              "endDate": "2026-08-25T18:30:00"
+            }
+          ]
+        },
+        "lastMonthSummary": {
+          "workFromHomeCount": 0,
+          "workInShiftCount": 10
+        }
+      }
+    ]
+  }
+]
