@@ -38,8 +38,17 @@
                     "optionalTotal": 1
                 },
                 "unpaidLeave": {
-                    "count": 0,
-                    "dates": []
+                    "count": 2,
+                    "dates": [
+                        {
+                            "startDate": "2026-03-25T09:30:00",
+                            "endDate": "2026-03-25T18:30:00"
+                        },
+                        {
+                            "startDate": "2026-03-26T09:30:00",
+                            "endDate": "2026-03-26T18:30:00"
+                        }
+                    ]
                 },
                 "lastMonthSummary": {
                     "workFromHomeCount": 1,
@@ -59,8 +68,17 @@
                     "optionalTotal": 1
                 },
                 "unpaidLeave": {
-                    "count": 0,
-                    "dates": []
+                    "count": 2,
+                    "dates": [
+                        {
+                            "startDate": "2026-03-25T09:30:00",
+                            "endDate": "2026-03-25T18:30:00"
+                        },
+                        {
+                            "startDate": "2026-03-26T09:30:00",
+                            "endDate": "2026-03-26T18:30:00"
+                        }
+                    ]
                 },
                 "lastMonthSummary": {
                     "workFromHomeCount": 0,
