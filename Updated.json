@@ -1,0 +1,72 @@
+[
+{
+        "managerId": "e5f9825a-b857-4307-b76b-ab87ce6db6e5",
+        "managerName": "Hrishikesh Katkar",
+        "managerMail": "hrishikesh.katkar@xperate.com",
+        "employees": [
+            {
+                "employeeId": "f62a8087-e69d-4994-bca2-9b61b32c6a3e",
+                "employeeName": "Gayatri Mali",
+                "employeeMail": "gayatri.mali@xperate.com",
+                "yearlySummary": {
+                    "holidayUsed": 6.0,
+                    "holidayTotal": 19,
+                    "sickUsed": 3.0,
+                    "sickTotal": 6,
+                    "optionalUsed": 1.0,
+                    "optionalTotal": 1
+                },
+                "unpaidLeave": {
+                    "count": 0,
+                    "dates": []
+                },
+                "lastMonthSummary": {
+                    "workFromHomeCount": 3,
+                    "workInShiftCount": 0
+                }
+            },
+            {
+                "employeeId": "ccb6812d-c728-4f73-93a1-715ef48e8a41",
+                "employeeName": "Purvaj More",
+                "employeeMail": "purvaj.more@xperate.com",
+                "yearlySummary": {
+                    "holidayUsed": 8.0,
+                    "holidayTotal": 22,
+                    "sickUsed": 3.0,
+                    "sickTotal": 7,
+                    "optionalUsed": 0,
+                    "optionalTotal": 1
+                },
+                "unpaidLeave": {
+                    "count": 0,
+                    "dates": []
+                },
+                "lastMonthSummary": {
+                    "workFromHomeCount": 1,
+                    "workInShiftCount": 0
+                }
+            },
+            {
+                "employeeId": "234cc3a9-ef36-4077-963a-746f5e017835",
+                "employeeName": "Sanket Gole",
+                "employeeMail": "sanket.gole@xperate.com",
+                "yearlySummary": {
+                    "holidayUsed": 3.0,
+                    "holidayTotal": 14,
+                    "sickUsed": 0,
+                    "sickTotal": 5,
+                    "optionalUsed": 0,
+                    "optionalTotal": 1
+                },
+                "unpaidLeave": {
+                    "count": 0,
+                    "dates": []
+                },
+                "lastMonthSummary": {
+                    "workFromHomeCount": 0,
+                    "workInShiftCount": 0
+                }
+            }
+        ]
+    }
+]
