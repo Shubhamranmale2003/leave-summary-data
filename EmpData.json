@@ -1,6 +1,4 @@
-{
-  "year": 2026,
-  "managers": [
+[
     {
       "managerId": "mgr-001",
       "managerName": "Shubham Ranmale",
@@ -136,4 +134,3 @@
       ]
     }
   ]
-}
