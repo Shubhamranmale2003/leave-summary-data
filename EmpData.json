@@ -31,7 +31,8 @@
           },
           "lastMonthSummary": {
             "workFromHomeCount": 4,
-            "workInShiftCount": 1
+            "workInShiftCount": 1,
+            "sickLeaveCount": 2
           }
         },
         {
@@ -61,7 +62,8 @@
           },
           "lastMonthSummary": {
             "workFromHomeCount": 2,
-            "workInShiftCount": 0
+            "workInShiftCount": 0,
+            "sickLeaveCount": 3
           }
         }
       ]
@@ -106,7 +108,8 @@
           },
           "lastMonthSummary": {
             "workFromHomeCount": 7,
-            "workInShiftCount": 2
+            "workInShiftCount": 2,
+            "sickLeaveCount": 4
           }
         },
 
@@ -128,7 +131,8 @@
           },
           "lastMonthSummary": {
             "workFromHomeCount": 0,
-            "workInShiftCount": 10
+            "workInShiftCount": 10,
+            "sickLeaveCount": 0
           }
         }
       ]
