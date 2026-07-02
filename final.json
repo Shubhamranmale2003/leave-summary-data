@@ -10,7 +10,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 16,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 1,
+          "casualLeaveTotal": 9
         },
         "unpaidLeave": {
           "count": 0,
@@ -27,7 +29,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 8,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 2,
+          "casualLeaveTotal": 10
         },
         "unpaidLeave": {
           "count": 3,
@@ -53,7 +57,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 0,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 0,
+          "casualLeaveTotal": 5
         },
         "unpaidLeave": {
           "count": 1,
@@ -82,7 +88,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 18,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 9,
+          "casualLeaveTotal": 9
         },
         "unpaidLeave": {
           "count": 5,
@@ -108,7 +116,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 5,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 4,
+          "casualLeaveTotal": 12
         },
         "unpaidLeave": {
           "count": 0,
@@ -125,7 +135,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 10,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 7,
+          "casualLeaveTotal": 9
         },
         "unpaidLeave": {
           "count": 2,
@@ -154,7 +166,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 2,
-          "earnedLeaveTotal": 14
+          "earnedLeaveTotal": 14,
+          "casualLeaveUsed": 1,
+          "casualLeaveTotal": 9
         },
         "unpaidLeave": {
           "count": 0,
@@ -178,7 +192,9 @@
         "employeeMail": "shubham.ranmale@xperate.com",
         "yearlySummary": {
           "earnedLeaveUsed": 13,
-          "earnedLeaveTotal": 18
+          "earnedLeaveTotal": 18,
+          "casualLeaveUsed": 9,
+          "casualLeaveTotal": 9
         },
         "unpaidLeave": {
           "count": 4,
